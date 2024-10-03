@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\bin\Debug\net5.0\WEEK5HW.exe
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\bin\Debug\net5.0\WEEK5HW.deps.json
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\bin\Debug\net5.0\WEEK5HW.runtimeconfig.json
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\bin\Debug\net5.0\WEEK5HW.runtimeconfig.dev.json
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\bin\Debug\net5.0\WEEK5HW.dll
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\bin\Debug\net5.0\WEEK5HW.pdb
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.AssemblyInfo.cs
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.dll
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\refint\WEEK5HW.dll
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.pdb
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\WEEK5HW.genruntimeconfig.cache
+C:\Users\User\source\repos\WEEK5HW\WEEK5HW\obj\Debug\net5.0\ref\WEEK5HW.dll
