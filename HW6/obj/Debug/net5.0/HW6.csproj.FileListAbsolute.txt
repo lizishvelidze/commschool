@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\HW6\HW6\bin\Debug\net5.0\HW6.exe
+C:\Users\User\source\repos\HW6\HW6\bin\Debug\net5.0\HW6.deps.json
+C:\Users\User\source\repos\HW6\HW6\bin\Debug\net5.0\HW6.runtimeconfig.json
+C:\Users\User\source\repos\HW6\HW6\bin\Debug\net5.0\HW6.runtimeconfig.dev.json
+C:\Users\User\source\repos\HW6\HW6\bin\Debug\net5.0\HW6.dll
+C:\Users\User\source\repos\HW6\HW6\bin\Debug\net5.0\HW6.pdb
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.AssemblyInfo.cs
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.dll
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\refint\HW6.dll
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.pdb
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\HW6.genruntimeconfig.cache
+C:\Users\User\source\repos\HW6\HW6\obj\Debug\net5.0\ref\HW6.dll
