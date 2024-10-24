@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\HW11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\abstract.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\facade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\something.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\something.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\strategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\some.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\some.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\hw11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\hw11.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|c:\\users\\user\\source\\repos\\hw11\\hw11\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21B166F5-75A5-4592-8198-334A414B499E}|HW11\\HW11.csproj|solutionrelative:hw11\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "some.txt",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\some.txt",
+              "RelativeDocumentMoniker": "HW11\\some.txt",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\some.txt",
+              "RelativeToolTip": "HW11\\some.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-24T12:15:56.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HW11.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\HW11.csproj",
+              "RelativeDocumentMoniker": "HW11\\HW11.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\HW11.csproj",
+              "RelativeToolTip": "HW11\\HW11.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T11:47:34.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "something.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\something.json",
+              "RelativeDocumentMoniker": "HW11\\something.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\something.json",
+              "RelativeToolTip": "HW11\\something.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T11:52:33.02Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Strategy.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Strategy.cs",
+              "RelativeDocumentMoniker": "HW11\\Strategy.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Strategy.cs",
+              "RelativeToolTip": "HW11\\Strategy.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAA1wFAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:50:25.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Facade.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Facade.cs",
+              "RelativeDocumentMoniker": "HW11\\Facade.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Facade.cs",
+              "RelativeToolTip": "HW11\\Facade.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:47:44.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Actor.cs",
+              "RelativeDocumentMoniker": "HW11\\Actor.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Actor.cs",
+              "RelativeToolTip": "HW11\\Actor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T11:46:34.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Abstract.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Abstract.cs",
+              "RelativeDocumentMoniker": "HW11\\Abstract.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Abstract.cs",
+              "RelativeToolTip": "HW11\\Abstract.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAIwFwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:04:20.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Program.cs",
+              "RelativeDocumentMoniker": "HW11\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\HW11\\HW11\\Program.cs",
+              "RelativeToolTip": "HW11\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAswD4AAABiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T18:02:42.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
